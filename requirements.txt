@@ -1,4 +1,4 @@
-pyrogram>=2.0.30 
+pyrofork 
  tgcrypto 
  pymongo[srv]==3.12.3 
  motor==2.5.1 
@@ -25,7 +25,8 @@ youtube-search-python==1.4.6
 yt-dlp
 youtube-dl
 requests 
-  
+  
+
   
  #---others----# 
  opencv-python-headless==4.7.0.68 
@@ -52,7 +53,6 @@ ytthumb
 jinja2
 apscheduler
 pyshorteners
-pyromod
 colorama
 openai==0.25.0
 
